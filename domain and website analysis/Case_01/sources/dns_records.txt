@@ -1,0 +1,11 @@
+DNS Records for drakulastream.org
+Hostname	Type	TTL	Priority	Content
+drakulastream.org	SOA	60		ns1.maluca.net support.maluca.net 1498658607 10800 60 604800 60
+drakulastream.org	NS	0		
+drakulastream.org	A	0		[hidden for ethical reasons]
+drakulastream.org	MX	0	10	ASPMX.L.GOOGLE.COM
+www.drakulastream.org	CNAME	0		drakulastream.org
+www.drakulastream.org	SOA	60		ns1.maluca.net support.maluca.net 1498658607 10800 60 604800 60
+www.drakulastream.org	NS	0		
+www.drakulastream.org	A	0		[hidden for ethical reasons]
+www.drakulastream.org	MX	0	10	ASPMX.L.GOOGLE.COM
