@@ -34,6 +34,7 @@ This OSINT report is prepared solely for **educational and research purposes**.
 All data was collected from **publicly available sources**.  
 No hacking or unauthorized access was performed.  
 The mention of any domain, IP address, or organization **does not imply illegal activity** unless confirmed by competent legal authorities.
+The structure and layout of the report are taken from the following repository: https://github.com/oryon-osint/investigation-templates/
 
 ---
 
