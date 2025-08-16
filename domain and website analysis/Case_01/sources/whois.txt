@@ -56,7 +56,6 @@ Name Server: 1.nowdns.net
 Name Server: y.nowdns.net
 DNSSEC: unsigned
 URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
->>> Last update of WHOIS database: 2025-08-06T20:34:03Z <<<
 
 Raw Registrar WHOIS Data
 Domain Name: drakulastream.org
@@ -114,4 +113,4 @@ Name Server: 1.nowdns.net
 Name Server: y.nowdns.net
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2025-08-06T00:00:00Z <<<
+
